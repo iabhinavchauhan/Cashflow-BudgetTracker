@@ -199,7 +199,6 @@ The project is built using modern web technologies.
 * Modern responsive interface
 * Light/Dark theme
 * Form-based expense management
-* Dynamic balance updates
 * User-friendly controls
 
 ### Reporting
@@ -417,9 +416,6 @@ The project is designed to provide:
 * Lightweight interaction
 * Simple navigation
 * Responsive layouts
-* Minimal complexity
-* Smooth user experience
-
 ---
 
 ## 🎨 UI/UX Goals
@@ -428,9 +424,7 @@ The application follows several usability principles:
 
 * Simple navigation
 * Clear financial information
-* Minimal input complexity
 * Easily readable balance information
-* Clear warning states
 * Responsive design
 * Accessible controls
 * Light/Dark theme support
