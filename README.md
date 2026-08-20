@@ -4,7 +4,6 @@ A modern and easy-to-use **Cash Flow Budget Tracker** that helps users manage th
 
 🔗 **Live Demo:** https://cashflowbudgettracker.netlify.app/
 
----
 
 ## 📌 Overview
 
