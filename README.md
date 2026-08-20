@@ -414,7 +414,6 @@ The project is designed to provide:
 * Simple navigation
 * Responsive layouts
 ---
-
 ## 🎨 UI/UX Goals
 
 The application follows several usability principles:
