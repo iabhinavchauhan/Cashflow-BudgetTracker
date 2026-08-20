@@ -53,8 +53,6 @@ This allows users to instantly understand how much money is still available.
 
 The application provides a **Budget Low** warning when the remaining budget falls below 10%.
 
-This helps users identify when their spending is approaching their available financial limit.
-
 ### 🌙 Dark / Light Mode
 
 A theme toggle is available to switch between light and dark viewing modes, making the application more comfortable to use in different environments.
