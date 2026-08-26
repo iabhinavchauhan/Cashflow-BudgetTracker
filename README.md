@@ -53,11 +53,11 @@ This allows users to instantly understand how much money is still available.
 
 The application provides a **Budget Low** warning when the remaining budget falls below 10%.
 
-### 🌙 Dark / Light Mode
+### Dark / Light Mode
 
 A theme toggle is available to switch between light and dark viewing modes, making the application more comfortable to use in different environments.
 
-### 📄 PDF Report
+### PDF Report
 
 Users can generate and download a PDF report containing their budget information.
 
