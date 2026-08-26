@@ -30,7 +30,7 @@ The interface focuses on simplicity, making it suitable for students, employees,
 
 Enter your total salary or available income and use it as the starting point for your budget calculation.
 
-### 🧾 Expense Tracking
+### Expense Tracking
 
 Add individual expenses by entering:
 
@@ -39,7 +39,7 @@ Add individual expenses by entering:
 
 Multiple expenses can be tracked to get a clearer picture of spending.
 
-### 📊 Automatic Balance Calculation
+### Automatic Balance Calculation
 
 The application automatically calculates the remaining balance based on:
 
