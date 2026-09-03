@@ -148,7 +148,7 @@ Users can download their budget information as a PDF report for future reference
 
 ---
 
-## 📊 Budget Calculation
+## Budget Calculation
 
 The core calculation can be represented as:
 
@@ -175,12 +175,12 @@ The low-budget condition is:
 If Remaining Percentage < 10%
 
 Show:
-⚠️ Budget Low!
+Budget Low!
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 The project is built using modern web technologies.
 
@@ -208,7 +208,7 @@ The project is built using modern web technologies.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 A typical project structure can be organized as:
 
@@ -236,7 +236,7 @@ cash-flow-budget-tracker/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the project locally, follow these steps.
 
