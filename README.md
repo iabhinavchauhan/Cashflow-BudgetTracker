@@ -72,10 +72,10 @@ The report can be useful for:
 
 The application is designed to provide a clean experience across:
 
-* 💻 Desktop
-* 💻 Laptop
-* 📱 Mobile
-* 📟 Tablet
+* Desktop
+* Laptop
+* Mobile
+* Tablet
 
 ---
 
