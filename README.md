@@ -79,7 +79,7 @@ The application is designed to provide a clean experience across:
 
 ---
 
-## 🖥️ Application Interface
+## Application Interface
 
 The main interface contains:
 
@@ -95,7 +95,7 @@ The main interface contains:
 
 ---
 
-## 🧮 How It Works
+## How It Works
 
 The application follows a simple budgeting workflow.
 
