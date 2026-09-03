@@ -49,7 +49,7 @@ Remaining Balance = Total Salary - Total Expenses
 
 This allows users to instantly understand how much money is still available.
 
-### ⚠️ Low Budget Alert
+### Low Budget Alert
 
 The application provides a **Budget Low** warning when the remaining budget falls below 10%.
 
@@ -68,7 +68,7 @@ The report can be useful for:
 * Budget reviews
 * Saving financial information for later reference
 
-### 📱 Responsive Interface
+### Responsive Interface
 
 The application is designed to provide a clean experience across:
 
