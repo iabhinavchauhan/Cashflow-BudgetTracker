@@ -266,7 +266,7 @@ Alternatively, you can use the **Live Server** extension in VS Code.
 
 ---
 
-## 💻 Running with VS Code
+## Running with VS Code
 
 1. Open the project folder in VS Code.
 2. Install the **Live Server** extension.
@@ -282,7 +282,7 @@ Alternatively, you can use the **Live Server** extension in VS Code.
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 This application can be useful for:
 
