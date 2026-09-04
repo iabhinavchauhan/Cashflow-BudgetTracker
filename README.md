@@ -276,9 +276,7 @@ Alternatively, you can use the **Live Server** extension in VS Code.
 
 ---
 
-## 🌐 Live Demo
-
-Try the application here:
+## Live Demo
 
 **https://cashflowbudgettracker.netlify.app/**
 
