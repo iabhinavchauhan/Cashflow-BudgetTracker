@@ -286,11 +286,11 @@ Alternatively, you can use the **Live Server** extension in VS Code.
 
 This application can be useful for:
 
-### 👨‍🎓 Students
+### Students
 
 Track monthly pocket money and daily spending.
 
-### 👨‍💻 Professionals
+### Professionals
 
 Monitor salary and recurring monthly expenses.
 
