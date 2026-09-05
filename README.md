@@ -492,18 +492,18 @@ Recommended screenshots:
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
-* 💰 Personal budget management
-* 🧾 Expense tracking
-* 📊 Automatic calculations
-* ⚠️ Low-budget detection
-* 🌙 Dark/Light mode
-* 📄 PDF report generation
-* 📱 Responsive design
-* ⚡ Lightweight application
-* 🎨 Clean modern UI
-* 🌐 Deployed on Netlify
+*  Personal budget management
+*  Expense tracking
+*  Automatic calculations
+*  Low-budget detection
+*  Dark/Light mode
+*  PDF report generation
+*  Responsive design
+*  Lightweight application
+*  Clean modern UI
+*  Deployed on Netlify
 
 ---
 
