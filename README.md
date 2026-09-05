@@ -327,11 +327,11 @@ Possible categories:
 * Healthcare
 * Other
 
-### 💾 Local Storage
+### Local Storage
 
 Store budget data in the browser so users don't lose their information after refreshing the page.
 
-### 📅 Monthly Budget History
+### Monthly Budget History
 
 Allow users to maintain budgets for different months.
 
@@ -344,11 +344,11 @@ March 2026
 April 2026
 ```
 
-### 🔐 User Authentication
+### User Authentication
 
 Add authentication so users can securely save their financial information.
 
-### ☁️ Cloud Database
+### Cloud Database
 
 A backend could be added to store user budgets securely in the cloud.
 
