@@ -507,7 +507,7 @@ Recommended screenshots:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 Building this project helped strengthen practical development skills including:
 
@@ -526,7 +526,7 @@ Building this project helped strengthen practical development skills including:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The project is deployed using **Netlify**.
 
