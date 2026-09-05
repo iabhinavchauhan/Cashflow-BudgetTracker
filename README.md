@@ -361,7 +361,7 @@ MongoDB
 JWT
 ```
 
-### 📊 Advanced Dashboard
+### Advanced Dashboard
 
 A future dashboard could display:
 
@@ -375,7 +375,7 @@ Monthly Spending
 Expense Categories
 ```
 
-### 🔔 Budget Notifications
+### Budget Notifications
 
 Users could receive notifications when:
 
@@ -384,13 +384,13 @@ Users could receive notifications when:
 * Budget reaches 10%
 * Budget is exceeded
 
-### 📱 PWA Support
+### PWA Support
 
 The application could be converted into a Progressive Web App so users can install it on mobile devices.
 
 ---
 
-## 🔒 Privacy
+## Privacy
 
 The application is intended for personal budgeting and expense tracking.
 
