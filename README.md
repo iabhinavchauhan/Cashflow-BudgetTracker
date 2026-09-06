@@ -613,16 +613,6 @@ I build modern, responsive and user-focused web applications using technologies 
 
 ---
 
-## Project Status
-
-```text
-🟢 Active
-```
-
-The project is currently available online and can be further extended with advanced budgeting, analytics, authentication, database integration, and financial insights.
-
----
-
 ## Cash Flow Budget Tracker
 
 > **Track your income. Manage your expenses. Understand your cash flow.**
