@@ -589,7 +589,7 @@ Submit your changes for review.
 
 ---
 
-## 📄 License
+## License
 
 This project is available for educational and personal use.
 
@@ -597,7 +597,7 @@ You can add an MIT License to the repository if you want to allow others to free
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Abhinav Chauhan
 
@@ -613,7 +613,7 @@ I build modern, responsive and user-focused web applications using technologies 
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 ```text
 🟢 Active
