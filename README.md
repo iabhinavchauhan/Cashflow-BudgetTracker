@@ -623,11 +623,11 @@ The project is currently available online and can be further extended with advan
 
 ---
 
-## 💰 Cash Flow Budget Tracker
+## Cash Flow Budget Tracker
 
 > **Track your income. Manage your expenses. Understand your cash flow.**
 
 **Live Demo:**
 https://cashflowbudgettracker.netlify.app/
 
-⭐ If you like the project, don't forget to **star the repository!**
+If you like the project, don't forget to **star the repository!**
