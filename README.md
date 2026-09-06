@@ -607,23 +607,9 @@ I build modern, responsive and user-focused web applications using technologies 
 
 ### Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/iabhinavchauhan
-* 🐙 GitHub: https://github.com/iabhinavchauhan
-* 📧 Email: [iabhinavchauhan.ac@gmail.com](mailto:iabhinavchauhan.ac@gmail.com)
-
----
-
-## ⭐ Support
-
-If you found this project useful or interesting:
-
-⭐ **Star this repository**
-
-🍴 **Fork the project**
-
-📢 **Share it with other developers**
-
-💡 **Suggest improvements**
+* LinkedIn: https://linkedin.com/in/iabhinavchauhan
+* GitHub: https://github.com/iabhinavchauhan
+* Email: [iabhinavchauhan.ac@gmail.com](mailto:iabhinavchauhan.ac@gmail.com)
 
 ---
 
