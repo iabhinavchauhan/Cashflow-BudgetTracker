@@ -542,7 +542,7 @@ For deployment, the project can also be hosted using platforms such as:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -605,7 +605,7 @@ You can add an MIT License to the repository if you want to allow others to free
 
 I build modern, responsive and user-focused web applications using technologies such as React.js, JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB.
 
-### 🔗 Connect With Me
+### Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/iabhinavchauhan
 * 🐙 GitHub: https://github.com/iabhinavchauhan
