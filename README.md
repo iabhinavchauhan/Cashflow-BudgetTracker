@@ -18,8 +18,6 @@ The application allows users to:
 * Switch between light and dark themes
 * Download a PDF report of their financial information
 
-The interface focuses on simplicity, making it suitable for students, employees, freelancers, and anyone who wants a quick overview of their monthly cash flow.
-
 ---
 
 ## Features
