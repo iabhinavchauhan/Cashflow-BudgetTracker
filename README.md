@@ -585,13 +585,6 @@ Submit your changes for review.
 
 ---
 
-## License
-
-This project is available for educational and personal use.
-
-You can add an MIT License to the repository if you want to allow others to freely use and modify the project.
-
----
 
 ## Author
 
