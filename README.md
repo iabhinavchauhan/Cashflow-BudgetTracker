@@ -15,8 +15,6 @@ The application allows users to:
 * Add multiple expenses
 * Specify expense names and amounts
 * Automatically track the remaining balance
-* Monitor how much of their budget is left
-* Get a warning when the remaining budget becomes critically low
 * Switch between light and dark themes
 * Download a PDF report of their financial information
 
