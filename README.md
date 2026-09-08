@@ -464,29 +464,6 @@ Since 37.5% is greater than 10%, the budget is not considered critically low.
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of your application here:
-
-```md
-![Dashboard](./screenshots/dashboard.png)
-
-![Dark Mode](./screenshots/dark-mode.png)
-
-![Budget Report](./screenshots/report.png)
-```
-
-Recommended screenshots:
-
-* Main dashboard
-* Salary input
-* Expense tracking
-* Low budget warning
-* Dark mode
-* Generated PDF report
-
----
-
 ## Project Highlights
 
 *  Personal budget management
