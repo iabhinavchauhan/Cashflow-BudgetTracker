@@ -608,5 +608,3 @@ I build modern, responsive and user-focused web applications using technologies 
 
 **Live Demo:**
 https://cashflowbudgettracker.netlify.app/
-
-If you like the project, don't forget to **star the repository!**
