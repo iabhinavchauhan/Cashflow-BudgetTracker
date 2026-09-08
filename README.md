@@ -4,7 +4,6 @@ A modern and easy-to-use **Cash Flow Budget Tracker** that helps users manage th
 
 **Live Demo:** https://cashflowbudgettracker.netlify.app/
 
-
 ## Overview
 
 **Cash Flow Budget Tracker** is a lightweight personal finance management web application designed to make expense tracking simple and intuitive.
