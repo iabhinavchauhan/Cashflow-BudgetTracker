@@ -537,54 +537,6 @@ For deployment, the project can also be hosted using platforms such as:
 
 ---
 
-## Contributing
-
-Contributions are welcome!
-
-If you want to improve this project:
-
-### 1. Fork the repository
-
-```bash
-git fork
-```
-
-### 2. Clone your fork
-
-```bash
-git clone https://github.com/your-username/cash-flow-budget-tracker.git
-```
-
-### 3. Create a new branch
-
-```bash
-git checkout -b feature/improvement
-```
-
-### 4. Make your changes
-
-Improve the UI, functionality, performance, or documentation.
-
-### 5. Commit your changes
-
-```bash
-git add .
-git commit -m "Add new budget feature"
-```
-
-### 6. Push your branch
-
-```bash
-git push origin feature/improvement
-```
-
-### 7. Create a Pull Request
-
-Submit your changes for review.
-
----
-
-
 ## Author
 
 ### Abhinav Chauhan
