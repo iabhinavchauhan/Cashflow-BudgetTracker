@@ -85,8 +85,7 @@ The main interface contains:
 5. **Expense Amount Input**
 6. **Add Expense Button**
 7. **Remaining Balance Display**
-8. **Budget Warning**
-9. **PDF Report Download Button**
+8. **PDF Report Download Button**
 
 ---
 
