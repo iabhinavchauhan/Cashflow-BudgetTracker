@@ -531,8 +531,5 @@ I build modern, responsive and user-focused web applications using technologies 
 ---
 
 ## Cash Flow Budget Tracker
-
-> **Track your income. Manage your expenses. Understand your cash flow.**
-
 **Live Demo:**
 https://cashflowbudgettracker.netlify.app/
