@@ -180,35 +180,6 @@ The project is built using modern web technologies.
 * Netlify
 
 ---
-
-## Project Structure
-
-A typical project structure can be organized as:
-
-```text
-cash-flow-budget-tracker/
-│
-├── index.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-├── README.md
-│
-└── LICENSE
-```
-
-> The exact structure may vary depending on the source implementation.
-
----
-
 ## Getting Started
 
 To run the project locally, follow these steps.
