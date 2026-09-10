@@ -8,15 +8,6 @@ A modern and easy-to-use **Cash Flow Budget Tracker** that helps users manage th
 
 **Cash Flow Budget Tracker** is a lightweight personal finance management web application designed to make expense tracking simple and intuitive.
 
-The application allows users to:
-
-* Enter their total salary/income
-* Add multiple expenses
-* Specify expense names and amounts
-* Automatically track the remaining balance
-* Switch between light and dark themes
-* Download a PDF report of their financial information
-
 ---
 
 ## Features
