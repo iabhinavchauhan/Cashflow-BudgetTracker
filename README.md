@@ -80,10 +80,8 @@ The main interface contains:
 
 1. **Cash Flow Budget Tracker Header**
 2. **Theme Toggle**
-3. **Total Salary Input**
-4. **Expense Name Input**
-5. **Expense Amount Input**
-6. **Add Expense Button**
+3. **Total Salary, Name, Expense Amount Inputs**
+. **Add Expense Button**
 7. **Remaining Balance Display**
 8. **PDF Report Download Button**
 
