@@ -87,7 +87,6 @@ Salary = $5,000
 ```
 
 ### Step 2 — Add Expenses
-
 Add individual expenses.
 
 Example:
@@ -100,7 +99,6 @@ Shopping   = $400
 ```
 
 ### Step 3 — Calculate Remaining Balance
-
 The application calculates the total expenses and subtracts them from the salary.
 
 ```text
@@ -114,13 +112,11 @@ Remaining Balance = $2,300
 ```
 
 ### Step 4 — Monitor Budget
-
 The remaining balance is continuously updated as expenses are added.
 
 If the remaining budget becomes less than 10% of the original salary, the application displays a low-budget warning.
 
 ### Step 5 — Generate Report
-
 Users can download their budget information as a PDF report for future reference.
 
 ---
