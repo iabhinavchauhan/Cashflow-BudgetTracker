@@ -57,7 +57,6 @@ The report can be useful for:
 ### Responsive Interface
 
 The application is designed to provide a clean experience across:
-
 * Desktop
 * Laptop
 * Mobile
