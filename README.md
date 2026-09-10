@@ -77,11 +77,7 @@ The main interface contains:
 ---
 
 ## How It Works
-
-The application follows a simple budgeting workflow.
-
 ### Step 1 — Enter Salary
-
 Enter your total salary or available income.
 
 Example:
