@@ -400,8 +400,6 @@ Remaining Balance
 = $3,750
 ```
 
-Therefore:
-
 ```text
 Remaining Percentage
 = ($3,750 / $10,000) × 100
@@ -410,21 +408,6 @@ Remaining Percentage
 ```
 
 Since 37.5% is greater than 10%, the budget is not considered critically low.
-
----
-
-## Project Highlights
-
-*  Personal budget management
-*  Expense tracking
-*  Automatic calculations
-*  Low-budget detection
-*  Dark/Light mode
-*  PDF report generation
-*  Responsive design
-*  Lightweight application
-*  Clean modern UI
-*  Deployed on Netlify
 
 ---
 
