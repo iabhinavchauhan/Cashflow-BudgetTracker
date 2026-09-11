@@ -454,13 +454,6 @@ The project is deployed using **Netlify**.
 Live application:
 
 https://cashflowbudgettracker.netlify.app/
-
-For deployment, the project can also be hosted using platforms such as:
-
-* Netlify
-* Vercel
-* GitHub Pages
-
 ---
 
 ## Author
