@@ -429,20 +429,13 @@ Since 37.5% is greater than 10%, the budget is not considered critically low.
 ---
 
 ## What I Learned
-
-Building this project helped strengthen practical development skills including:
-
 * DOM manipulation
 * JavaScript event handling
-* Form handling
-* Dynamic UI updates
 * Mathematical calculations
-* State management concepts
 * Responsive CSS
 * Theme switching
 * Client-side data processing
 * PDF generation
-* User experience design
 * Deployment using Netlify
 
 ---
