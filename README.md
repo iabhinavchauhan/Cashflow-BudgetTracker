@@ -148,9 +148,6 @@ Budget Low!
 ---
 
 ## Tech Stack
-
-The project is built using modern web technologies.
-
 ### Frontend
 
 * HTML5
