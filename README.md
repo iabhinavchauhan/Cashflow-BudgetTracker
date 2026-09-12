@@ -19,8 +19,6 @@ Add individual expenses by entering:
 * Expense Name
 * Expense Amount
 
-Multiple expenses can be tracked to get a clearer picture of spending.
-
 ### Automatic Balance Calculation
 
 The application automatically calculates the remaining balance based on:
