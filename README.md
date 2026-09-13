@@ -72,8 +72,6 @@ The main interface contains:
 
 ## How It Works
 ### Step 1 — Enter Salary
-Enter your total salary or available income.
-
 Example:
 
 ```text
