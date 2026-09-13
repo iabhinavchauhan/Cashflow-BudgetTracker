@@ -310,10 +310,6 @@ Users could receive notifications when:
 * Budget reaches 10%
 * Budget is exceeded
 
-### PWA Support
-
-The application could be converted into a Progressive Web App so users can install it on mobile devices.
-
 ---
 
 ## Privacy
