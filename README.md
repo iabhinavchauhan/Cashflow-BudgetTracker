@@ -110,9 +110,6 @@ Users can download their budget information as a PDF report for future reference
 ---
 
 ## Budget Calculation
-
-The core calculation can be represented as:
-
 ```text
 Total Expenses = Expense 1 + Expense 2 + Expense 3 + ... + Expense N
 ```
