@@ -79,8 +79,6 @@ Salary = $5,000
 ```
 
 ### Step 2 — Add Expenses
-Add individual expenses.
-
 Example:
 
 ```text
