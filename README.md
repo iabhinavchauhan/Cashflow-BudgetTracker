@@ -89,8 +89,6 @@ Shopping   = $400
 ```
 
 ### Step 3 — Calculate Remaining Balance
-The application calculates the total expenses and subtracts them from the salary.
-
 ```text
 Total Salary = $5,000
 
