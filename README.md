@@ -12,13 +12,6 @@ A modern and easy-to-use **Cash Flow Budget Tracker** that helps users manage th
 
 Enter your total salary or available income and use it as the starting point for your budget calculation.
 
-### Expense Tracking
-
-Add individual expenses by entering:
-
-* Expense Name
-* Expense Amount
-
 ### Automatic Balance Calculation
 
 The application automatically calculates the remaining balance based on:
