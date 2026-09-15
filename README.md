@@ -14,8 +14,6 @@ Enter your total salary or available income and use it as the starting point for
 
 ### Automatic Balance Calculation
 
-The application automatically calculates the remaining balance based on:
-
 ```text
 Remaining Balance = Total Salary - Total Expenses
 ```
