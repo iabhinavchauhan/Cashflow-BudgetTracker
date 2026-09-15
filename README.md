@@ -225,10 +225,6 @@ Compare income against planned expenses.
 
 ---
 
-## 🔮 Future Improvements
-
-The project can be extended with several advanced features.
-
 ### 📈 Expense Analytics
 
 Add charts and graphs to visualize spending patterns.
