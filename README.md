@@ -1,6 +1,5 @@
 # Cash Flow Budget Tracker
-
-**Live Demo:** https://cashflowbudgettracker.netlify.app/
+https://cashflowbudgettracker.netlify.app/
 
 ---
 
