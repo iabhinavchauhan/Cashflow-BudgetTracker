@@ -1,7 +1,5 @@
 # Cash Flow Budget Tracker
 
-A modern and easy-to-use **Cash Flow Budget Tracker** that helps users manage their salary, track daily expenses, monitor their remaining balance, and maintain better control over their personal finances.
-
 **Live Demo:** https://cashflowbudgettracker.netlify.app/
 
 ---
