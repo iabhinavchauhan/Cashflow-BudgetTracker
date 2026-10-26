@@ -1,8 +1,6 @@
 # Cash Flow Budget Tracker
 https://cashflowbudgettracker.netlify.app/
 
----
-
 ## Features
 
 ### Salary Management
