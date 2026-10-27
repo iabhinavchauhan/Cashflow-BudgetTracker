@@ -147,30 +147,6 @@ Budget Low!
 
 * Netlify
 
----
-## Getting Started
-
-To run the project locally, follow these steps.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/cash-flow-budget-tracker.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd cash-flow-budget-tracker
-```
-
-### 3. Open the Project
-
-If it is a static HTML/CSS/JavaScript project, you can simply open:
-
-```text
-index.html
-```
 
 ## Running with VS Code
 
