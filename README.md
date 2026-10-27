@@ -172,12 +172,6 @@ If it is a static HTML/CSS/JavaScript project, you can simply open:
 index.html
 ```
 
-in your browser.
-
-Alternatively, you can use the **Live Server** extension in VS Code.
-
----
-
 ## Running with VS Code
 
 1. Open the project folder in VS Code.
