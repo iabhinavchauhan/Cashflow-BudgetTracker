@@ -4,9 +4,6 @@ https://cashflowbudgettracker.netlify.app/
 ## Features
 
 ### Salary Management
-
-Enter your total salary or available income and use it as the starting point for your budget calculation.
-
 ### Automatic Balance Calculation
 
 ```text
