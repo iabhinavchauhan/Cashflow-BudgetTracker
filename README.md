@@ -9,9 +9,6 @@ https://cashflowbudgettracker.netlify.app/
 ```text
 Remaining Balance = Total Salary - Total Expenses
 ```
-
-This allows users to instantly understand how much money is still available.
-
 ### Low Budget Alert
 
 The application provides a **Budget Low** warning when the remaining budget falls below 10%.
