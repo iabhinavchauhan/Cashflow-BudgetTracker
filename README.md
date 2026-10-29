@@ -10,9 +10,6 @@ Remaining Balance = Total Salary - Total Expenses
 ```
 ### Low Budget Alert
 ### Dark / Light Mode
-
-A theme toggle is available to switch between light and dark viewing modes, making the application more comfortable to use in different environments.
-
 ### PDF Report
 
 Users can generate and download a PDF report containing their budget information.
