@@ -3,15 +3,15 @@ https://cashflowbudgettracker.netlify.app/
 
 ## Features
 
-### Salary Management
-### Automatic Balance Calculation
+1. Salary Management
+2. Automatic Balance Calculation
 ```text
 Remaining Balance = Total Salary - Total Expenses
 ```
-### Low Budget Alert
-### Dark / Light Mode
-### PDF Report
-### Responsive Interface
+3. Low Budget Alert
+4. Dark / Light Mode
+5. PDF Report
+6. Responsive Interface
 ## Application Interface
 
 The main interface contains:
