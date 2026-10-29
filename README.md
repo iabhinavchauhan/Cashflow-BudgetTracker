@@ -11,16 +11,6 @@ Remaining Balance = Total Salary - Total Expenses
 ### Low Budget Alert
 ### Dark / Light Mode
 ### PDF Report
-
-Users can generate and download a PDF report containing their budget information.
-
-The report can be useful for:
-
-* Personal financial records
-* Monthly expense tracking
-* Budget reviews
-* Saving financial information for later reference
-
 ### Responsive Interface
 
 The application is designed to provide a clean experience across:
