@@ -5,14 +5,10 @@ https://cashflowbudgettracker.netlify.app/
 
 ### Salary Management
 ### Automatic Balance Calculation
-
 ```text
 Remaining Balance = Total Salary - Total Expenses
 ```
 ### Low Budget Alert
-
-The application provides a **Budget Low** warning when the remaining budget falls below 10%.
-
 ### Dark / Light Mode
 
 A theme toggle is available to switch between light and dark viewing modes, making the application more comfortable to use in different environments.
