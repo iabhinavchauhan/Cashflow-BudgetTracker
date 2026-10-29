@@ -12,15 +12,6 @@ Remaining Balance = Total Salary - Total Expenses
 ### Dark / Light Mode
 ### PDF Report
 ### Responsive Interface
-
-The application is designed to provide a clean experience across:
-* Desktop
-* Laptop
-* Mobile
-* Tablet
-
----
-
 ## Application Interface
 
 The main interface contains:
