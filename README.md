@@ -329,12 +329,7 @@ https://cashflowbudgettracker.netlify.app/
 ## Author
 
 ### Abhinav Chauhan
-
-**Frontend / MERN Stack Developer**
-
-I build modern, responsive and user-focused web applications using technologies such as React.js, JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB.
-
-### Connect With Me
+## Connect With Me
 
 * LinkedIn: https://linkedin.com/in/iabhinavchauhan
 * GitHub: https://github.com/iabhinavchauhan
