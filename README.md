@@ -2,7 +2,6 @@
 https://cashflowbudgettracker.netlify.app/
 
 ## Features
-
 1. Salary Management
 2. Automatic Balance Calculation
 ```text
