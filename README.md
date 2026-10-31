@@ -64,12 +64,7 @@ Users can download their budget information as a PDF report for future reference
 
 ## Budget Calculation
 ```text
-Total Expenses = Expense 1 + Expense 2 + Expense 3 + ... + Expense N
-```
-
-Then:
-
-```text
+Total Expenses = Expense 1 + Expense 2 + Expense 3 + ... + Expense 
 Remaining Balance = Total Salary - Total Expenses
 ```
 
