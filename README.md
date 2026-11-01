@@ -311,7 +311,7 @@ Since 37.5% is greater than 10%, the budget is not considered critically low.
 * Theme switching
 * Client-side data processing
 * PDF generation
-* Deployment using Netlify
+* Deployed using Netlify
 
 ---
 
