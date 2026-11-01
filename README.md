@@ -323,8 +323,6 @@ https://cashflowbudgettracker.netlify.app/
 ## Author
 
 ### Abhinav Chauhan
-## Connect With Me
-
 * LinkedIn: https://linkedin.com/in/iabhinavchauhan
 * GitHub: https://github.com/iabhinavchauhan
 * Email: [iabhinavchauhan.ac@gmail.com](mailto:iabhinavchauhan.ac@gmail.com)
