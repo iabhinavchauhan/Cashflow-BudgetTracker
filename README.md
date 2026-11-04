@@ -11,7 +11,7 @@ Remaining Balance = Total Salary - Total Expenses
 4. Dark / Light Mode
 5. PDF Report
 6. Responsive Interface
-## Application Interface
+## Application Interface 
 
 The main interface contains: 
 
