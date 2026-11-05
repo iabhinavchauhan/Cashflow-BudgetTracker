@@ -106,16 +106,6 @@ Budget Low!
 ### Deployment
 
 * Netlify
-
-
-## Running with VS Code
-
-1. Open the project folder in VS Code.
-2. Install the **Live Server** extension.
-3. Right-click `index.html`.
-4. Select **Open with Live Server**.
-5. The application will open in your browser.
-
 ---
 
 ## Live Demo
