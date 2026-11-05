@@ -30,7 +30,6 @@ Example:
 ```text
 Salary = $5,000
 ```
-
 ### Step 2 — Add Expenses
 Example:
 
