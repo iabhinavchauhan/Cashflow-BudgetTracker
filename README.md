@@ -39,7 +39,6 @@ Food       = $500
 Transport  = $300
 Shopping   = $400
 ```
-
 ### Step 3 — Calculate Remaining Balance
 ```text
 Total Salary = $5,000
