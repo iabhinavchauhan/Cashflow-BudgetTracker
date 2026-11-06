@@ -14,7 +14,7 @@ Remaining Balance = Total Salary - Total Expenses
 ## Application Interface   
 
 The main interface contains: 
-
+  
 1. **Cash Flow Budget Tracker Header**
 2. **Theme Toggle**
 3. **Total Salary, Name, Expense Amount Inputs**
