@@ -100,7 +100,6 @@ Budget Low!
 * User-friendly controls
 
 ### Reporting
-
 * PDF report generation
 
 ### Deployment
