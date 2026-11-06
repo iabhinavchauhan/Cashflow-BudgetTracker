@@ -303,7 +303,6 @@ Since 37.5% is greater than 10%, the budget is not considered critically low.
 ---
 
 ## Deployment
-
 https://cashflowbudgettracker.netlify.app/
 ---
 
