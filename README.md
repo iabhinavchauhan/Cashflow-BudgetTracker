@@ -125,15 +125,12 @@ Track monthly pocket money and daily spending.
 Monitor salary and recurring monthly expenses.
 
 ### Freelancers
-
 Keep track of income and project-related spending.
 
 ### Personal Finance
-
 Maintain a simple overview of available cash.
 
 ### Monthly Budget Planning
-
 Compare income against planned expenses.
 
 ---
