@@ -113,15 +113,12 @@ Budget Low!
 ---
 
 ## Use Cases
-
 This application can be useful for:
 
 ### Students
-
 Track monthly pocket money and daily spending.
 
 ### Professionals
-
 Monitor salary and recurring monthly expenses.
 
 ### Freelancers
