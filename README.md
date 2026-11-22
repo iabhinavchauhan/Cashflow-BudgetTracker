@@ -220,7 +220,6 @@ Users should avoid entering highly sensitive financial information such as:
 ---
 
 ## Performance
-
 The project is designed to provide:
 
 * Fast loading
